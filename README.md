@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Adrian_MN @Kapytanpirynolais my gamertag add me!!!
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning HTML, CSS, PHP, JS, C#
+- 💞️ I’m looking to collaborate on??
+- 📫 How to reach me 
