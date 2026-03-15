@@ -1,11 +1,5 @@
-
-
-
-
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software development 
-- 📫 How to reach me: Contact part
-- ⚡ Fun fact: I never thought I would become a programmer!
+# Hello there I am Adrián!👋
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) <!-- Imagen del gato -->
 
 <br>
 
@@ -30,14 +24,11 @@
 
 	[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,php,py,cs,dart,flutter,react,)](https://skillicons.dev)
 
-
-
- 
-	
-
+<br>
 </div>
-
-
 ------
 [Mahdiiye](https://github.com/Mahdiiye)
 Last Edited on: 19/01/2023
+
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) <!-- Imagen del gato -->
