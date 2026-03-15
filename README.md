@@ -28,7 +28,7 @@
 - **Softwares and Tools**:
 
 
-	[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,php,phython,c#,dart,flutter,react,)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,php,py,cs,dart,flutter,react,)](https://skillicons.dev)
 
 
 
