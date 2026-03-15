@@ -97,4 +97,5 @@ I'm a **Software Development student** specializing in **Multiplatform Software 
 
 ---
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 *Last Edited on: 15/03/2026*
