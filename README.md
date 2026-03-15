@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+<img align="right" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" height="270px" width="450px" alt="GIF"/>
 
 I'm a **Software Development student** specializing in **Multiplatform Software Development** at Universidad Tecnológica de Chihuahua.
 
