@@ -1,4 +1,4 @@
-# Hey there! I'm Carlos Adrián Mata Nevárez👋
+# Hey there! I'm Carlos Adrián 👋
 
 <div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height=250px width=60% /></div>
 
@@ -81,7 +81,7 @@ I'm a **Software Development student** specializing in **Multiplatform Software 
 
 ---
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
+## 📫 How to reach me
 
 <p align="center">
   <a href="mailto:cnevarez751@gmail.com">
