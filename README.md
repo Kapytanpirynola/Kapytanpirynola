@@ -1,6 +1,6 @@
-# Hey there! I'm Carlos Adrián 👋
+# Hey there! I'm Carlos Adrián Mata Nevárez👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height=250px width=60% /></div>
 
 <br>
 
@@ -81,7 +81,7 @@ I'm a **Software Development student** specializing in **Multiplatform Software 
 
 ---
 
-## 📫 How to reach me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
 <p align="center">
   <a href="mailto:cnevarez751@gmail.com">
@@ -96,7 +96,5 @@ I'm a **Software Development student** specializing in **Multiplatform Software 
 </p>
 
 ---
-
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 *Last Edited on: 15/03/2026*
