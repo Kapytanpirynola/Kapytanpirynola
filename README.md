@@ -63,7 +63,6 @@ I'm a **Software Development student** specializing in **Multiplatform Software 
     </td>
   </tr>
 </table>
----
 
 ## 📫 How to reach me
 
