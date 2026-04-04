@@ -19,8 +19,6 @@ I'm a **Software Development student** specializing in **Multiplatform Software 
 
 <br>
 
----
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
 <table align="center">
